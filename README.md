@@ -1,2 +1,2 @@
 # go_practice
-Modules and script to register my practice.
+Modules and scripts to register my practice.
